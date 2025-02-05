@@ -7,6 +7,6 @@ This Power BI dashboard provides insightful HR and sales analytics, enabling dat
 ✔️ Interactive visuals & dynamic filters
 ✔️ Data-driven HR and sales decision-making
 
-📊 Tech Stack: Power BI | DAX | SQL | Excel
+📊 Tech Stack: Power BI | DAX | Excel
 
 
